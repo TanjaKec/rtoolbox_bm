@@ -1,0 +1,14 @@
+---
+date: "2016-04-09T16:50:16+02:00"
+title: Meet the Instructors
+weight: 2
+---
+
+The instructor is **Dr Tatjana Kecojević** who is a longtime **R** user with a doctorate in Statistics from [the University of Manchester](https://www.manchester.ac.uk/). She spent many years working in the U.K. university sector as a senior lecturer and has published an extensive number of articles and papers in the field of quantile regression. Tatjana is the founder and co-organizer of [R-Ladies](https://rladies.org) Manchester, Belgrade and Novi Sad Chapters, leader of the [R Forwards](https://forwards.github.io) team and a Women in DS ([WiDS](https://www.widsconference.org)) ambassador. She is currently the founder and director of [SisterAnalyst.org](https://sisteranalyst.org), an organisation aiming to empower women from a diverse range of backgrounds through data literacy. Unsurprisingly, Tatjana is an enthusiastic R user and in addition to her involvement supporting women in STEM related activities, she is dedicated to creating an inclusive culture by developing initiatives supporting all underrepresented groups within the DS community.   
+
+![Red variant](/general/Instructor/images/IMG_0232.jpg?width=40pc)
+
+Duško Medic is media and civil society activists with more than 20 years experience –  working as a journalist, editor, project manager and IT developer in [Independent Journalists` Association of Vojvodina](http://www.ndnv.org) as editor in chief in period from 1999 to 2001, editor and webmaster of the weekly Bulevar, from 2001 to 2003, and the latter, from 2011 to 2019 as general secretary of the organization. He is experienced in media analysis and is co-author of several media publications and studies, including [“Civil Society Media”](http://www.ndnv.org/wp-content/uploads/2018/06/MedijiCivilnogDrustva-NDNV-Drugo-dopunjeno-izdanje.pdf), [“WHITE PAPER of the Co-financing of the Public Interest in the Field of Public Information”](http://www.ndnv.org/wp-content/uploads/2016/06/BelaKnjigaWEB.pdf), [“Multilingual and the Media in the Languages of National Minorities in the Context of Implementation of the Media Legislation”](http://www.ndnv.org/wp-content/uploads/2016/04/PRILOG-1-TABELA-FINAL.pdf), and [“Europe in Vojvodina”](http://www.ndnv.org/wp-content/uploads/2015/07/Evropa_u_VOJVODINI2.pdf). He is founder and president of non-governmental organisation Center for Sustainable Communities which in cooperation with Media Coalition has been realized a study “WHITE PAPER”. Dusko is the founder of the [SisterAnalyst](https://sisteranalyst.org) organisation which aims to empower women irrespective of their backgrounds, through data literacy. Dusko managed and gained reputation for numerous projects done in partnership with journalists, media, local communities and civil sector organizations. 
+
+-----------------------------
+© 2019 Tatjana Kecojevic
